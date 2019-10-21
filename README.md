@@ -1,0 +1,2 @@
+# testlogstashconfigs
+TO BE REMOVED.
